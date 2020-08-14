@@ -1,0 +1,36 @@
+theme = "tale-hugo"
+title = "Decolonial AI Community" 
+
+
+
+[menu]
+
+  [[menu.main]]
+  identifier = "resources"
+  name = "Resources"
+  title = "Resources"
+  url = "/learning/"
+  weight = 20
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    title = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About" # shows up in menu
+    title = "About-title" # shows up where?
+    url = "/about"
+    weight = 30
+
+
+
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"

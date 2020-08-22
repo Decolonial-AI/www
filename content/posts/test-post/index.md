@@ -1,7 +1,7 @@
 ---
 title: "A First Post"
 date: 2020-03-26
-draft: true
+draft: false
 authors: Shakir and Emmanuel
 
 lastmod: 2020-06-25

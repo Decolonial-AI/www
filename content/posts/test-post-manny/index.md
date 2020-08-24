@@ -16,9 +16,9 @@ allalalalala
 
 How to make work
 
-katex.render("\f{x} = \int_{-\infty}^\infty \hat \f\xi\,e^{2 \pi i \xi x} \,d\xi", element, {
-    throwOnError: false
-});
+$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+$$
 
 ## Heading 2
 

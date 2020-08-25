@@ -4,10 +4,5 @@ date: 2019-03-26T08:47:11+01:00
 draft: false
 ---
 
-## Books
+This page will be populated with books, videos, podcasts and other resources as we explore them.
 
-Some books
-
-## Videos
-
-Some videos

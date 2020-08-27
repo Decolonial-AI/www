@@ -1,6 +1,10 @@
 theme = "tale-hugo"
 title = "Decolonial AI Community" 
 
+googleAnalytics = "UA-176683894-1"
+
+[permalinks]
+  blog = "/:filename/"
 
 
 [menu]

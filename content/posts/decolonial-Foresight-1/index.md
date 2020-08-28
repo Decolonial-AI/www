@@ -3,6 +3,9 @@ title: "Decolonial Foresight (1): Put the Fire Out"
 date: 2020-08-23
 draft: true
 author: Shakir Mohamed
+toc: false
+type: page
+tags: ["africa", "beta-testing", "coloniality", "poetry", "power"]
 
 lastmod: 2020-08-25
 katex: true
@@ -10,8 +13,6 @@ math: true
 
 ---
  
-> Read in 10mins ⦿ 1875 words ⦿
-
 
 Between 1996 and 2002, South Africa convened a series of hearings—as part of its recovery from the injustices of aparthheid—known as the [Truth And Reconciliation Commission (TRC)](https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(South_Africa)). Having heard from apartheid’s victims and perpetrators, one outcome stood out: that there was very little overlap of victims between those seeking restitution and those seeking amnesty. This was a period of disjunction, split between those who came before the Commission and who repeatedly said they could not forget the harms done to them, and those who sought amnesty but repeatedly could not remember any details of their acts and complicity. Can’t forget-can’t remember[^sue].
 
@@ -74,6 +75,8 @@ It is tempting to think that colonialism has no role in science, and that—as i
 
 Our hope over the course of this series, is to build a dialogue with readers about what a decolonial field of AI could be, to identify all the points of agreement, disagreement, contention and alterity, and to explore new ways of together doing research that meets our common aspirations to responsibly advance our field in support of greater prosperity, nurture and wellbeing.
 
+---
+
 We can put out the fire. Here is one more tale of how.
 
 __Resurrection, by Koleka Putuma__[^koleka]
@@ -103,12 +106,12 @@ __When we talk about our history, we put the fire out__
 
 
 ---
-> We wrote this essay safely indoors, while listening to [We’ve Landed](https://www.youtube.com/watch?v=TGU1UGwKbiM) by Tony Allen & Hugh Masekela (Absence dub remix). This essay series is an alternative exploration of the paper [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://link.springer.com/article/10.1007/s13347-020-00405-8#Sec4).
+> We wrote this essay safely indoors, while listening to [We’ve Landed by Tony Allen & Hugh Masekela (Absence dub remix)](https://www.youtube.com/watch?v=TGU1UGwKbiM). This essay series is an alternative exploration of the paper [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://link.springer.com/article/10.1007/s13347-020-00405-8#Sec4). \
+> -- Firefighting, _Shakir Mohamed_
 >
----
 
 
-### References and Notes
+<!--- ### References and Notes -->
 
 
 

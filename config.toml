@@ -96,18 +96,18 @@ uglyURLs = false
 
 # Author’s information
 #[author]
-#    # Name
-#    name = "Decolonial AI Community"
-#    # Email
-#    email = "~"
-#    # Motto or introduction
-#    #motto = "Viva La Vida"
-#    # Avatar
+    # Name
+    name = "Decolonial AI Community"
+    # Email
+    email = "~"
+    # Motto or introduction
+    #motto = "Viva La Vida"
+    # Avatar
 #    avatar = "/icons/apple-touch-icon.png"
 #    # Personal website, default: baseURL
-#    website = "https://decolonialai.com/"
+    website = "https://decolonialai.com/"
 #    # Twitter
-#    twitter = "~"
+    twitter = "~"
 
 # Related content
 [related]
@@ -769,7 +769,7 @@ uglyURLs = false
     # Note: valid for the `posts` and
     #       `page` homepage layout only
 
-    postMetaDateFormat = "2006.1.2"
+    postMetaDateFormat = "02 Jan 2006" #"2006.1.2"
     # ATTENTION: be sure to follow the
     #            specified format
     #            https://gohugo.io/functions/format/
@@ -787,7 +787,7 @@ uglyURLs = false
     categoryIcon = "folder"
     categoryDelimiter = "/"
 
-    displayWordCount = true
+    displayWordCount = false
     wordCountIcon = "pencil-alt"
 
     displayReadingTime = true

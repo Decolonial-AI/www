@@ -1,20 +1,18 @@
 ---
 title: "Decolonial Foresight (1): Put the Fire Out"
-date: 2020-08-23
+date: 2020-09-05
 draft: true
-author: Shakir Mohamed
-toc: false
-type: page
 tags: ["africa", "beta-testing", "coloniality", "poetry", "power"]
+series: ["Decolonial Foresight"]
 
-lastmod: 2020-08-25
+#lastmod: 2020-08-25
 katex: true
 math: true
 
 ---
  
 
-Between 1996 and 2002, South Africa convened a series of hearings—as part of its recovery from the injustices of aparthheid—known as the [Truth And Reconciliation Commission (TRC)](https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(South_Africa)). Having heard from apartheid’s victims and perpetrators, one outcome stood out: that there was very little overlap of victims between those seeking restitution and those seeking amnesty. This was a period of disjunction, split between those who came before the Commission and who repeatedly said they could not forget the harms done to them, and those who sought amnesty but repeatedly could not remember any details of their acts and complicity. Can’t forget-can’t remember[^sue].
+Between 1996 and 2002, South Africa convened a series of hearings—as part of its recovery from the injustices of aparthheid—known as the [Truth And Reconciliation Commission (TRC)](https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(South_Africa)). Having heard from apartheid’s victims and perpetrators, one outcome stood out: that there was very little overlap of victims between those seeking restitution and those seeking amnesty. This was a period of disjunction, split between those who came before the Commission and who repeatedly said they could not forget the harms done to them, and those who sought amnesty but repeatedly could not remember any details of their acts and complicity. Can’t forget--can’t remember[^sue].
 
 [^sue]: Sue Williams captured this disjunction her exhibition Can’t forget, Can’t remember, Apartheid Museum 2002.
 
@@ -36,10 +34,11 @@ This is how statistics, and the tech industry of the age, entered its dark phase
 
 [^black2]: Black, E. (2001). IBM and the Holocaust. pg 29.
 
-This story is connected to another thread of seemingly unconnected history. In 1810, [Saartjie Baartman](https://en.wikipedia.org/wiki/Sarah_Baartman)—22 years old, a member of the Khoi people of Southern-Africa, hard-working, fluent in at least !Xam, English, French, and Dutch, going through her life searching for growth and love and meaning—found herself trapped in London, exploited, and on public display in a human menagerie. She was used to generate profit, to indulge the fetishisation of Black women, and used to establish the racist science of human difference. And Saartjie was just the first of many other members of the Khoi, including children, put on show in this way. One beginning of a long history of African (and other) peoples, and their diaspora, used for _profit and experimentation_. 
+This story is connected to another thread of seemingly unrelated history. In 1810, [Saartjie Baartman](https://en.wikipedia.org/wiki/Sarah_Baartman)—22 years old, a member of the Khoi people of Southern-Africa, hard-working, fluent in at least !Xam, English, French, and Dutch, going through her life searching for growth and love and meaning—found herself trapped in London, exploited, and on public display in a human menagerie. She was used to generate profit, to indulge the fetishisation of Black women, and used to establish the racist science of human difference. And Saartjie was just the first of many other members of the Khoi, including children, put on show in this way. One beginning of a long history of African (and other) peoples, and their diaspora, used for _profit and experimentation_. 
 
-A century later, in 1904 the Herero and Nama peoples of Namibia were subjected to even worse treatment: forced into sterilisation, medical experimentation and eventual [genocide](https://en.wikipedia.org/wiki/Herero_and_Namaqua_genocide). Namibia was treated as a site of medical _beta testing_, where medical methods (of harm) were first developed and tested and refined; these methods were then later exported and used against the Jewish people by Nazi Germany—already identified and in-waiting due to the efforts of statistical analysis. This mindset of experimentation and mistreatment is not an aberration, and has continued unabated into our present: in the clinical development through forced contraception of [MPA in Zimbabwe](https://en.wikipedia.org/wiki/Medical_experimentation_in_Africa#Forced_contraception_in_Rhodesia_(now_Zimbabwe):_1970s") in the 1970s, one of the world’s most widely-used and today, safest drugs for contraception; in the ongoing questions of illegal blood exports and data and ownership during the 2014-2016 [West Africa Ebola epidemic](https://www.telegraph.co.uk/global-health/science-and-disease/ebolas-lost-blood-row-samples-flown-africa-big-pharma-set-cash/); or in the suggestion in April 2020 by [French scientists](https://www.bbc.co.uk/news/world-europe-52151722) that vaccines for COVID-19 should first be tested in Africa. There is a historic continuity between 19th century slavery and exploitation, to 20th century medical beta testing and genocide, to 21st century experimentation and data acquisition—and the computational methods that connects them all. This continuity has directly affected Africans, but is entangled with our larger global history. Here again, are there those that can’t forget and those that can’t remember[^connection]. 
-[^connection]: In the Decolonial AI paper, we used a different historical thread of experimentation on African Amercians, starting with 19th century gynaecology experiments, to 20th century Tuskeegee Syphillus study, to 21st century algorithmic discrimination.
+A century later, in 1904 the Herero and Nama peoples of Namibia were subjected to even worse treatment: forced into sterilisation, medical experimentation and eventual [genocide](https://en.wikipedia.org/wiki/Herero_and_Namaqua_genocide). Namibia was treated as a site of medical _beta testing_, where medical methods (of harm) were first developed and tested and refined; these methods were then later exported and used against the Jewish people by Nazi Germany—already identified and in-waiting due to the efforts of statistical analysis. This mindset of experimentation and mistreatment is not an aberration, and has continued unabated into our present: in the clinical development through forced contraception of [MPA in Zimbabwe](https://en.wikipedia.org/wiki/Medical_experimentation_in_Africa#Forced_contraception_in_Rhodesia_(now_Zimbabwe):_1970s"_) in the 1970s, one of the world’s most widely-used and today, safest drugs for contraception; in the ongoing questions of illegal blood exports and data and ownership during the 2014-2016 [West Africa Ebola epidemic](https://www.telegraph.co.uk/global-health/science-and-disease/ebolas-lost-blood-row-samples-flown-africa-big-pharma-set-cash/); or in the suggestion in April 2020 by [French scientists](https://www.bbc.co.uk/news/world-europe-52151722) that vaccines for COVID-19 should first be tested in Africa. There is a historic continuity between 19th century slavery and exploitation, to 20th century medical beta testing and genocide, to 21st century experimentation and data acquisition—and the computational methods that connects them all[^connection]. This continuity has directly affected Africans, but is entangled with our larger global history. Here again, are there those that can’t forget and those that can’t remember. 
+
+[^connection]: In the Decolonial AI paper, we used a different historical thread of experimentation on African Amercians, starting with 19th century gynaecology experiments, to 20th century Tuskeegee Syphillus trials, to 21st century algorithmic discrimination.
 
 The fire burns still.
 
@@ -53,7 +52,7 @@ Historical colonialism was enacted by territorial appropriation, exploitation of
 [^ongoing]: At the same time, we recognise the ongoing colonialism and occupation in places across the world, like Kashmir, Palestine, Western Sahara, Crimea, South Ossetia, West Papua, Chagos Islands. 
 
 [^Maldonado]: Maldonado-Torres, N. (2007). On the coloniality of being: contributions to the development of a concept. Cultural studies, 21(2-3), 240–270.
-[^Mignolo]: Mignolo, W.D. (2007). Introduction: coloniality of power and de-colonial thinking. Cultural studies, 21(2-3), 155–167.Return to ref 2007 in article
+[^Mignolo]: Mignolo, W.D. (2007). Introduction: coloniality of power and de-colonial thinking. Cultural studies, 21(2-3), 155–167.
 
 [^Quijano]: Quijano, A. (2000). Coloniality of power and Eurocentrism in Latin Americas. International Sociology, 15(2), 215–232.
 
@@ -62,7 +61,7 @@ Historical colonialism was enacted by territorial appropriation, exploitation of
 
 The suffering of Saartjie Baartman and of the Herero people was produced by colonialism. And today, coloniality reproduces colonialism's mindset and ills, now amplified by predictive systems and AI. One recent example is the operations of the political consulting firm [Cambridge Analytica (CA)](https://www.huffingtonpost.co.uk/entry/facebook-cambridge-analytica-developing-world_n_5ab50bc7e4b0decad04951d1?ri18n=true&guccounter=1). CA beta-tested tools for political influence during the 2013 [Kenyan](https://www.washingtonpost.com/news/global-opinions/wp/2018/03/20/how-cambridge-analytica-poisoned-kenyas-democracy/) and 2015 Nigerian elections, with these countries chosen, in part, due to the weak data protection laws compared to their base of operations in the United Kingdom. CA’s work was found to have actively interfered in these electoral processes and worked against social cohesion[^nyabola]. And repeating a story we’ve heard before, the refined versions of their predictive tools were then exported back to the US and UK during those countries' own electoral processes. In this story, we see coloniality set ablaze globally: a British company, using data obtained from hackers in Israel or illegally from [US-based](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal) social media platforms, able to reach into the lives of people across the world, in Kenya and Nigeria and the US and the UK, solely driven by motives of enrichment and profit, and supported by global networks of finance and infrastructure and data and science. 
 
-[^nyabola]: Nyabola, N. (2018). Digital democracy, analogue politics: how the Internet era is transforming politics in kenya. Zed Books Ltd.
+[^nyabola]: Nyabola, N. (2018). Digital Democracy, Analogue Politics: How the Internet Era is Transforming Politics in Kenya. Zed Books Ltd.
 
 Decolonial theory gives us a framework with which to understand systems of power that, as in this example, are continuities of colonial practices. In decolonial theory, power can be understood by how it exercises control over social structures. [Quijano](https://en.wikipedia.org/wiki/Coloniality_of_power) defines four axes of this control, through authority, economy, gender and sexuality, and knowledge and subjectivity; Maldonado-Torres similarly uses three axes, of hierarchies of race, gender, and geopolitics. In addition, this cartography of power can be further elaborated by demarcating the terrain of analysis: by identifying the metropoles—the centres of power—and their peripheries, which hold relatively less power and contest the metropole’s authority, participation and legitimacy in shaping everyday life[^champion]. 
 
@@ -81,7 +80,7 @@ We can put out the fire. Here is one more tale of how.
 
 __Resurrection, by Koleka Putuma__[^koleka]
 
-[^koleka]: Koleka Putuma (2017) Resurrection in _Collective Amnesia_, pg . 
+[^koleka]: Koleka Putuma (2017). Resurrection in _Collective Amnesia_, pg 108. 
 
 _The graves are bleeding trauma_\
 The memories say, let me out\
@@ -106,8 +105,8 @@ __When we talk about our history, we put the fire out__
 
 
 ---
-> We wrote this essay safely indoors, while listening to [We’ve Landed by Tony Allen & Hugh Masekela (Absence dub remix)](https://www.youtube.com/watch?v=TGU1UGwKbiM). This essay series is an alternative exploration of the paper [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://link.springer.com/article/10.1007/s13347-020-00405-8#Sec4). \
-> -- Firefighting, _Shakir Mohamed_
+> This essay was written safely indoors while listening to [We’ve Landed by Tony Allen & Hugh Masekela (Absence dub remix)](https://www.youtube.com/watch?v=TGU1UGwKbiM). This essay series is an alternative exploration of the paper [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://link.springer.com/article/10.1007/s13347-020-00405-8#Sec4). It is one of many to come, and from many others, to experiment with the decolonial. \
+> -- _Shakir Mohamed_
 >
 
 

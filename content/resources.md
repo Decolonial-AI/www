@@ -1,6 +1,6 @@
 ---
 title: "Learning Resources"
-date: 2019-03-26T08:47:11+01:00
+date: 2020-08-25
 draft: false
 ---
 

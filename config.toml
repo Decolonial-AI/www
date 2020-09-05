@@ -11,7 +11,6 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 # Name of theme
 theme = "meme"
 
-googleAnalytics = "UA-176683894-1"
 
 # `hugo new` automatically opened text editor
 newContentEditor = ""
@@ -691,13 +690,12 @@ uglyURLs = false
     # Note: render only in production
     #       environment
 
-    #enableGoogleAnalytics = false
+    enableGoogleAnalytics = true
 
     trackingCodeType = "gtag"
     # Note: gtag or analytics
 
-    trackingID = ""
-
+    trackingID = "UA-176683894-1"
 
     ######################################
     # Google Site Verification

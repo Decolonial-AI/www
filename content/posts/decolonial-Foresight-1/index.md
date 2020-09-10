@@ -1,7 +1,7 @@
 ---
 title: "Decolonial Foresight (1): Put the Fire Out"
 date: 2020-09-05
-draft: true
+draft: false
 tags: ["africa", "beta-testing", "coloniality", "poetry", "power"]
 series: ["Decolonial Foresight"]
 
